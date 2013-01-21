@@ -1,0 +1,12 @@
+/* 
+    Document   : subcolumns_ext
+    Author     : Johannes Tober
+    Description:
+        style the backend-view
+*/
+
+.tl_radio_table_ext {margin-top: 10px;}
+.tl_radio_table_ext input[type=radio] {vertical-align: top; margin: 20px 0 0 0; }
+.tl_radio_table_ext td {width: 160px; padding: 0 10px 10px 0;}
+.tl_radio_table_ext label span {display: block; font-size: 10px; margin-left: 15px;}
+
